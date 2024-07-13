@@ -23,7 +23,7 @@ CMD ["flask", "run", "--host", "0.0.0.0"]
 
 
 #How to run and see output
-#Allows to interact with container 
+#Allows for interactivate session within container
 #-i == interactivate
 #-t == TTY session 
 #docker run -it hr_autonmous
